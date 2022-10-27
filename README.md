@@ -8,7 +8,7 @@ It's the true elixir for a happy life as it leads to a calm and composed mind.
 The following questions in every test will elucidate the significance and vitality of being 
 healthy in our lives and will aid us in improving the health of others. 
                             
-However, *the assessments do not signifify as diagnostic tests*, but rather, self-assessments. 
+However, **the assessments do not signifify as diagnostic tests**, but rather, self-assessments. 
                             
 Thank you!
 
@@ -35,3 +35,19 @@ Dealing with these struggles alone can be detrimental to a person's well-being a
 The creators of this program decided to make a Mental Health Self-Assessment Program that can determine the individual's mental health state just by taking the test. 
 With this program, people can have awareness of their mental health and address their mental health issues as soon as possible. 
 The tests can also give recommendations to the user whether they should seek professional help.
+
+## Timeline
+Mental Health Assessment Program is a final requirement for the course "CC11 - Introduction to Programming 1" during the fourth quarter of the second semester
+of the academic year 2020-2021. 
+
+**Conceptualization**
+The project was conceptualized in early December of 2021.
+
+**Writing**
+The project was coded and built altogehter during the early December of 2021 until the end of the mentioned year.
+
+**Furnishing**
+The project was finished during the first week of January of 2022.
+
+**Presentation**
+The project was presented to our instructor during the first week of January of 2022.
