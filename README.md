@@ -1,6 +1,7 @@
-# Mental-Health-Assessment-Program
+# Mental Health Assessment Program
 Computerized Self-Administered Tests for Assessing Mental Health Status
 
+## What is MHA Program?
 Health is an asset that helps us maintain the balance of life and a sound mind. 
 It's the true elixir for a happy life as it leads to a calm and composed mind. 
 Mental Health Assessment is a program that contains four different mental health tests. 
